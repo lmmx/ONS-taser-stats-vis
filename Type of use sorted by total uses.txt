@@ -1,0 +1,44 @@
+Force                                   Not stated     Drawn     Aimed     Arced     Red Dotted     Drive Stun     Angle Drive Stun    Fired     Total uses
+Metropolitan                            0              33        6         0         48             0              0                   11        992
+Greater Manchester                      0              17        5         1         53             3              1                   19        476
+West Midlands                           0              12        7         2         50             2              1                   27        452
+Staffordshire                           0              28        4         1         54             0              0                   14        199
+Humberside                              0              7         5         4         57             2              6                   21        197
+Northumbria                             0              49        6         1         31             0              0                   13        194
+Thames Valley                           0              28        4         1         61             0              0                   7         165
+West Yorkshire                          0              15        9         1         54             1              2                   19        155
+Sussex                                  0              43        3         0         49             1              0                   4         128
+Devon and Cornwall                      0              14        6         0         46             2              1                   32        123
+Kent                                    0              31        11        0         44             2              1                   12        121
+Avon and Somerset                       0              15        8         6         46             8              0                   18        120
+Hampshire                               0              17        3         0         69             0              0                   12        118
+West Mercia                             0              15        7         0         62             3              1                   14        117
+Lincolnshire                            0              25        3         1         50             0              0                   21        113
+Suffolk                                 0              42        7         0         43             0              1                   7         86
+Lancashire                              0              21        7         1         42             2              1                   25        84
+Norfolk                                 0              24        7         3         45             3              1                   18        76
+Gwent                                   0              20        3         0         63             4              0                   11        76
+Leicestershire                          0              27        0         11        38             1              4                   18        73
+Cheshire                                0              12        0         1         60             0              1                   25        67
+Merseyside                              0              11        15        0         46             0              0                   28        65
+Cumbria                                 0              11        3         2         63             3              0                   19        64
+Hertfordshire                           0              30        0         2         64             2              0                   3         61
+Wiltshire                               0              17        7         2         62             7              2                   5         60
+Surrey                                  0              13        0         4         69             5              0                   9         55
+Essex                                   0              13        11        2         53             0              2                   19        53
+Warwickshire                            0              10        0         0         73             2              0                   16        51
+North Yorkshire                         0              27        6         0         47             0              4                   16        49
+Northamptonshire                        0              37        4         0         47             2              2                   8         49
+Cambridgeshire                          0              20        6         0         57             0              0                   16        49
+Bedfordshire                            0              27        4         0         51             0              0                   18        49
+South Yorkshire                         0              4         0         0         70             0              0                   26        47
+Nottinghamshire                         0              28        2         2         47             0              0                   21        47
+Derbyshire                              0              18        2         7         58             9              0                   7         45
+Gloucestershire                         0              25        0         2         48             5              0                   20        44
+Durham                                  0              17        2         2         64             2              0                   12        42
+South Wales                             0              22        0         0         50             6              0                   22        36
+Dorset                                  0              3         15        0         71             0              3                   9         34
+North Wales                             0              30        4         0         48             7              4                   7         27
+Cleveland                               0              8         8         0         44             0              0                   40        25
+Dyfed-Powys                             0              18        6         6         53             0              0                   18        17
+City of London                          0              0         0         0         83             0              0                   17        6
